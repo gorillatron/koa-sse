@@ -1,5 +1,5 @@
 {
-  "name": "koa-sse-stream",
+  "name": "koa-sse-middleware",
   "version": "0.2.0",
   "description": "koa sse（server side event） middleware",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "koa",
     "server"
   ],
-  "author": "yklykl123",
+  "author": "yklykl123 @gorillatron",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yklykl530/koa-sse/issues"
